@@ -51,11 +51,8 @@ app.use(bodyParser.json());
      }
     
  });
-    
-   
-
-    
-     });
+        
+});
 
    
     // cityModel.find({},function(err,cities){
